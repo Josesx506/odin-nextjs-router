@@ -5,7 +5,7 @@ const nextConfig = {
         reactCompiler: true,
     },
     images: {
-      path: "/",
+      path: "/odin-nextjs-router",
       domains: ['dummyjson.com',"picsum.photos","robohash.org"],
     }
 };
