@@ -9,7 +9,7 @@ export default function Home() {
           <div>
             <Image 
               className={styles.logo}
-              src="./contacts-book.svg"
+              src="https://www.svgrepo.com/show/11186/contacts-book.svg"
               alt="Book logo"
               width={180}
               height={180}
