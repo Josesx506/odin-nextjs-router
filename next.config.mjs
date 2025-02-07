@@ -5,7 +5,7 @@ const nextConfig = {
         reactCompiler: true,
     },
     images: {
-      path: "/public",
+      path: "/",
       domains: ['dummyjson.com',"picsum.photos","robohash.org"],
     }
 };
